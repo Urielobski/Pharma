@@ -1,7 +1,7 @@
 <?php
-    $server = 'localhost:3306';
-    $username = 'root';
-    $password = '';
+    $server = 'dpg-cpurmil6l47c73fum6m0-a';
+    $username = 'crud_productos_user';
+    $password = 'oH9M4kXeKhqpBRvOiuNsVEw7FfRz6dXZ';
     $database = 'crud_productos';
 
     try {
